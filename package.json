@@ -8,6 +8,6 @@
     "@headlessui/tailwindcss": "^0.1.2"
   },
   "scripts": {
-    "start": "node ./server/server.js",
+    "start": "node server/server.js",
   }
 }
