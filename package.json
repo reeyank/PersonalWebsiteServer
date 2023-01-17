@@ -7,4 +7,7 @@
   "dependencies": {
     "@headlessui/tailwindcss": "^0.1.2"
   }
+  "scripts": {
+  "start": "node server.js"
+}
 }
